@@ -1,0 +1,299 @@
+body {
+	/*margin 0 and padding 0 within the body element makes sure there is no white space e.g. around the header and footer. In this case it allows the grey colour to reach right to the edges.*/
+	font-family:Arial;
+	margin:0;
+	padding:0;
+}
+
+h2 {
+	font-size:18px;
+	color:#0404B4;
+}
+
+p {
+	font-size:12px;
+	
+}
+
+
+.inverse {
+	background-color: #f1f1f1;
+	height: 60px;
+}
+
+.logo {
+	float:left;
+	padding-top:10px;
+	padding-right:10px;
+}
+.top-search-bar {
+	float:left;
+	display:inline;
+}
+
+.top-search-bar input {
+	height:25px;
+	width:600px;
+	margin-top:12px;
+	padding-left:5px;
+}
+
+.top-search-bar img {
+	float:right;
+	margin-left:-4px;
+	padding-top:12px;
+	position:relative;
+}
+
+.right {
+	float:right;
+}
+
+.right li {
+	float:left;
+	padding-right:20px;	
+}
+
+.right ul {
+	list-style-type: none;
+}
+
+.right button {
+		background:#0040FF;
+		font-weight:bold;
+		color:white;
+		height:30px;
+		width:75px;
+		border-radius:5px;
+	
+}
+
+.clear {
+	clear:both;
+}
+
+.second-bar {
+	float:left;
+	margin-left: 120px;
+	padding-top:15px;
+	height:40px;
+}
+
+.second-bar ul {
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+}
+
+.second-bar li  {
+    display: inline;
+	margin-right:20px;
+}
+.second-bar a {
+	color:#585858;
+}
+
+.second-bar a:hover {
+	color:#1C1C1C;
+}
+
+
+.settings {
+	float:right;
+	margin-right:20px;
+	padding-top:8px;
+}
+
+.detail {
+	
+	margin-left: 120px;
+}
+
+.results {
+	margin-left: 120px;
+	width:550px;
+}
+
+.content {
+	
+	margin-left: 120px;
+}
+
+.advert {
+	
+	margin-left: 120px;
+}
+
+.related {
+	
+	margin-left: 120px;
+	width:550px;
+}
+
+.related-one {
+	
+	float:left;
+	margin-right:15px;
+}
+
+.related-two {
+	
+	position:absolute;
+	margin-left:250px;
+}
+
+.pages {
+	margin-left:auto;
+	margin-right:auto;
+	width:75%; 
+}
+
+.pages  li {
+	display:inline;
+}
+
+.footer {
+	margin-left:120px;
+	background-color: #f1f1f1;
+	height:100px;
+	margin:0;
+	padding:0;
+}
+
+.footer ul {
+	margin-left:80px;
+}
+
+.footer li {
+	display:inline;
+	padding-right:20px; 
+	font-size:14px;
+}
+
+
+.footer a {
+	color:#585858;
+	text-decoration:none;
+}
+
+.footer a:hover {
+	color:#1C1C1C;
+}
+
+.footer  p {
+	margin-left:120px;
+	padding-top:20px;
+}
+
+
+/*div.right ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+div.right {
+	float:right;
+	margin-top:-70px; //is this the best way??
+	
+}
+
+
+/*header {
+	display:block;
+}
+
+.inverse {
+	background-color: #f1f1f1;
+}
+
+nav {
+	width:100%;
+	float:right;
+	padding:0;
+	font-size:12px;
+}
+
+.top-search-bar {
+	float:left;
+	margin-top:14px;
+	margin-left:20px;
+}
+
+.top-search-bar form {
+	margin:0;
+	padding:0;
+}
+
+.top-search-bar input {
+  width: 600px;
+  border-radius: 2px 0 0 2px;
+  display: inline-block;
+}
+
+input {
+ 
+  height: 25px;
+  border: 1px solid #ddd;
+}
+
+form {
+	display:block;
+}
+
+.right {
+	float:right;
+	margin-right:20px;
+}
+
+button, input {
+  line-height: normal;
+}
+
+button, input, select, textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+}
+
+nav ul, nav ol {
+  list-style: none;
+  list-style-image: none;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+li {
+  text-align: -webkit-match-parent;
+}*/
+/* My code
+
+	display: block;
+	height:50px;
+	background-color: #f1f1f1;
+	margin:0;
+	padding:0;
+	
+}
+
+div.bar-left input {
+	
+	height:25px;
+	width: 400px;
+	
+}
+/* work on right side of header
+div.bar-right{
+
+float:left;
+}
+*/
